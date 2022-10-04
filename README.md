@@ -1,4 +1,4 @@
-### Quadron Palace ![]([https://media.tenor.com/images/1c5c0af7ea171da6c37568d79b5f3da5/tenor.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fflushed-kaboom-gif-22491722&psig=AOvVaw0r8pbqlavl2BQ6KeunthP9&ust=1664952037491000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCPD2yen7xfoCFQAAAAAdAAAAABAD))
+### Quadron Palace ![](https://media.tenor.com/images/1c5c0af7ea171da6c37568d79b5f3da5/tenor.gif)
 <strong> Main place in the my world!
 ### İletişim / Contact 
 [![Gmail](https://img.shields.io/badge/-quadronxgod@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quadronxgod@gmail.com)](mailto:quadronxgod@gmail.com)
