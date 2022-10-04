@@ -10,6 +10,6 @@
 
 
   
-    ### My active projects / Aktif Projelerim!
-  QL - Roleplay Founder / Developer and QL - Roleplay Open Source based plugin and skript world! <br>
+ ### My active projects / Aktif Projelerim!
+ QL - Roleplay Founder / Developer and QL - Roleplay Open Source based plugin and skript world! <br>
  [<img class="left" alt="QuadronxGod | QL-RP" width="120px" src="https://cdn.discordapp.com/attachments/850026294015557673/851609423218475048/LOGO_1.png" />][ql-rp] 
