@@ -8,3 +8,8 @@
 [![discord](https://img.shields.io/static/v1?logo=discord&label=&message=discord&color=111&&style=flat-square)](https://discord.com/users/443120781342408707)
 ***
 
+
+  
+    ### My active projects / Aktif Projelerim!
+  QL - Roleplay Founder / Developer and QL - Roleplay Open Source based plugin and skript world! <br>
+ [<img class="left" alt="QuadronxGod | QL-RP" width="120px" src="https://cdn.discordapp.com/attachments/850026294015557673/851609423218475048/LOGO_1.png" />][ql-rp] 
